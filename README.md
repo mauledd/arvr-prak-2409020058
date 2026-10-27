@@ -10,7 +10,6 @@ Mata Kuliah : Augmented Reality dan Virtual Reality
 Pertemuan : 1
 
 # Link Demo
-
 https://github.com/mauledd/arvr-prak-2409020058.git
 
 ## Deskripsi Proyek
@@ -46,4 +45,4 @@ arvr-prak-2409020058/
 └── .gitignore
 ```
 
->>>>>>> 9da2a33 (Praktikum AR VR Pertemuan 1)
+(Praktikum AR VR Pertemuan 1)
