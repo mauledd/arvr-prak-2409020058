@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Praktikum AR/VR - Pertemuan 1</title>
+  <title>Praktikum ARVR - Pertemuan 1</title>
 
   <!-- A-Frame versi 1.7.1 sesuai instruksi praktikum. -->
   <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
@@ -26,8 +26,8 @@
 </head>
 <body>
   <div class="petunjuk">
-    <strong>Praktikum AR/VR - Pertemuan 1</strong>
-    <span id="pesan">Geser layar untuk melihat sekitar. Arahkan titik tengah ke kotak dan klik untuk mengganti warnanya.</span>
+    <strong>Praktikum ARVR - Pertemuan 1</strong>
+    <span id="pesan">Geser layar untuk melihat sekitar. Arahkan titik tengah ke kotak.</span>
   </div>
 
   <!-- Halaman utama: scene WebXR berbasis A-Frame -->
@@ -56,11 +56,10 @@
 
     <a-sphere position="0 1.05 -3" radius="0.86"
               color="#FFB547" shadow="cast: true"></a-sphere>
-
+            
     <a-cylinder position="1.9 0.95 -3" radius="0.64" height="1.9"
                 color="#36B7BC" shadow="cast: true"></a-cylinder>
-
-    <!-- Label tiap objek -->
+               
     <a-text value="BOX" position="-1.8 0.12 -1.95" rotation="-75 0 0"
             align="center" width="2.6" color="#173B43"></a-text>
     <a-text value="SPHERE" position="0 0.12 -1.95" rotation="-75 0 0"
