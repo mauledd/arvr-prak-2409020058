@@ -9,7 +9,7 @@ Pertemuan : 1
 
 # Link Demo
 
-https://github.com/mauledd/arvr-prak-2409020058.git
+ https://mauledd.github.io/arvr-prak-2409020058/
 
 ## Deskripsi Proyek
 
